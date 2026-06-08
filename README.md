@@ -24,7 +24,6 @@ An interactive Excel dashboard analyzing sales data across products, customers, 
 ## Tools Used
 
 - Microsoft Excel
-- openpyxl (data preparation)
 
 ## Files
 
